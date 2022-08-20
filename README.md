@@ -1,2 +1,1 @@
-<a href="https://www.promtotears.github.io" target="">
-    <img alt="GitHub Stats" src="pikachu-pokemon.gif"
+<img align="left" width="150" height="150" src="src/speedy_smol.gif">
