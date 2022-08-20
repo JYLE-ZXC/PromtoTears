@@ -1,4 +1,5 @@
-<h3>Testing stuff :3</h3>
+<img align="left" height="30%" width="30%" src="pikachu-pokemon.gif">
 <a href="https://promtotears.github.io">
-<img align="center" height="30%" width="30%" src="pikachu-pokemon.gif">
+<br>
+Testing Stuff :3<br>
 </a>
