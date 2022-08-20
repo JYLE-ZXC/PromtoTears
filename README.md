@@ -1,1 +1,1 @@
-<img align="left" width="150" height="150" src="src/speedy_smol.gif">
+<img align="left" width="150" height="150" src="pikachu-pokemon.gif">
