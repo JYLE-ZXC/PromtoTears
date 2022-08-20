@@ -1,1 +1,1 @@
-<img align="center" src="pikachu-pokemon.gif">
+<img align="center" height="50%" width="50%" src="pikachu-pokemon.gif">
